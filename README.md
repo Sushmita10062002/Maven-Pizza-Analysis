@@ -10,7 +10,7 @@ with additional details on the type, size, quantity, price, and ingredients.
 
 ### Challenge Objective
 For the Maven Pizza Challenge, you’ll be playing the role of a BI Consultant hired by Plato's Pizza, a Greek-inspired pizza place in New Jersey. 
-You've been hired to help the restaurant use data to improve operations, and just received the following note:
+You've been hired to help the restaurant use data to improve operations.
 Here are some questions that we'd like to be able to answer:
 
 - What days and times do we tend to be busiest?
